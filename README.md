@@ -1,3 +1,21 @@
-CSCI 2270 -- Recitation 9 -- Final Project Phase 1
-I will be the only person working in this project in from my recitation.
-For this project, I would like to implement a k-ary tree to manage the inventory system of a bookstore.   This could also be done using a hash table, but I'm slightly less comfortable with this structure, I'd like some feedback as to which would be better for this project.  Each book is in a genre section at the bookstore (Fiction, Philosophy, Science, Religion, Travel, etc), and books that are in the same genre section would be siblings in the tree structure. The 'book' will be added to the tree as a struct with a value for the title, inventory number, and genre name, plus pointers to connect to other book nodes in the tree.  The first child->siblings will be implemented using a linked list and pointers; this way, memory allocation can be dynamic.  I was also toying with the idea of using vectors for the sibling structure.  The methods would include building the tree, traversing the tree to search for a title and printing which genre section it's in, purchasing a book (updating the inventory), deleting a book from inventory, adding a book to the inventory, printing all of the books in one genre section at the book store, deleting the entire tree, etc.  I haven't come up with all of the methods yet but I don;t think I'll have trouble coming up with ten.  
+//CSCI 2270 -- Recitation 9 -- Final Project Phase 1
+//SUMMARY
+/*
+For my final project, I will be updating a bookstore's inventory, storing books with the same genre in different indexes in the hash table; for genres that contain more than one book, the books will be stored as nodes in a binary search tree.  Basically, it's a hashtable where every index of the hash has a BST filled with books.  The hashtable is built initially when the program is run; an instance of the bookstore class is created, which initializes an empty hashtable of structs "BookNode", and a .txt file with the book data is read in.  This data is used to create the hashtable with all of its BST's, and it is built by BookNode until the end of the file.  After the Hashtable is created, a menu displays, where the user can make various requests of the program, including printing the entire inventory of the bookstore, buying a book, searching for a book, and deleting a book from the inventory.
+*/
+
+//HOW TO RUN
+/*
+After opening the project (terminal or codeblocks), the user will be prompted with a menu.  The user can just choose various menu options until exiting the program.
+*/
+
+//SYSTEM REQUIREMENTS
+/*
+program written for linux
+*/
+
+//OPEN ISSUES/BUGS
+/*
+invalid menu options in soe cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
+*/
+
