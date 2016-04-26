@@ -16,6 +16,6 @@ program written for linux
 
 //OPEN ISSUES/BUGS
 /*
-invalid menu options in soe cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
+invalid menu options in some cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
 */
 
