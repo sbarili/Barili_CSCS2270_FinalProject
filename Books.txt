@@ -1,0 +1,36 @@
+Poetry,The Iliad,Homer,25,10
+Mystery,American Tabloid,Ellroy,15,34
+Literature,The House of Mirth,Wharton,12,20
+Science Fiction,Colorless,Murakami,15,5
+Anthology,Tenth of December,Saunders,20,2
+Science Fiction,1Q84,Murakami,30,3
+Literature,Great Expectations,Dickens,10,12
+Literature,Crime and Punishment,Dostoyevsky,7,22
+Mystery,Bleeding Edge,Pynchon,20,2
+Poetry,The Metamorphoses,Ovid,30,6
+Science Fiction,Norwegian Wood,Murakami,20,2
+Philosophy,A Sand County Almanac,Leopold,12,7
+Literature,War and Peace,Tolstoy,20,15
+Literature,Canery Row,Steinbeck,10,12
+Literature,The Wavves,Woolf,10,8
+Science Fiction,Transhuman,Bova,15,5
+Literature,The Metamorphosis,Kafka,20,4
+Science Fiction,Do Androids Dream of Electric Sheep,Dick,9,8
+Science Fiction,The Windup Bird Chronicle,Murakami,20,1
+Poetry,Love is a Dog from Hell,Bukowski,15,4
+Science Fiction,Diaspora,Egan,12,2
+Anthology,Three Tales,Flaubert,9,3
+Science Fiction,Atlas Shrugged,Rand,18,4
+Philosophy,Existentialism,Kaufman,15,2
+Philosophy,Bad Feminist,Gay,15,2
+Political Science,The Prince,Machiavelli,8,1
+Anthology,The Turn of the Screw,James,12,1
+Political Science,The Road to Serfdom,Hayek,18,2
+Satire,Animal Farm,Orwell,30,2
+Poetry,The Odyssey,Homer,20,5
+Satire,Catch-22,Heller,9,6
+Political Science,Hopes and Prospects,Chomsky,14,1
+Literature,To the Lighthouse, Woolf,13,6
+Literature,White Fang,London,10,10
+Literature,Amerika,Kafka,20,10
+Science Fiction,Brave New World,Huxley,20,7
