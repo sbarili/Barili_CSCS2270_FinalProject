@@ -6,7 +6,7 @@ For my final project, I will be updating a bookstore's inventory, storing books 
 
 //HOW TO RUN
 /*
-In the repository I've uploaded a .zip file that has an entire codeblocks project.  Clone the repository to your machine, decompres the .zip, and run the .cbp from codeblocks to run the program. Alternatively, you should be able to compile and run the program without decompressing the zip file, by accessing the cloned repository from the command line.  If you're thrown an error, try g++ -o a.out main.cpp Bookstore.cpp -std=c++11 , and run ./a.out and it should work.
+In the repository I've uploaded a .zip file that has an entire codeblocks project.  Clone the repository to your machine, decompress the .zip, and run the .cbp from codeblocks to run the program. Alternatively, you should be able to compile and run the program without decompressing the zip file, by accessing the cloned repository from the command line.  If you're thrown an error, try g++ -o a.out main.cpp Bookstore.cpp -std=c++11 , and run ./a.out and it should work.
 */
 
 //SYSTEM REQUIREMENTS
@@ -17,6 +17,6 @@ program written for linux
 //OPEN ISSUES/BUGS
 /*
 ~invalid menu options in some cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
-~when I try to compile and run this program from the command line, it throws an error regarding non-static data types in the Bookstore class. If you attempt to run the program from the command line you'll get the same error.  It might be an issue with how I'm attempting to build or run the program or it might be an issue with my code, but I couldn't resolve the issue before the due date.
+~the user can only input numeric values for the main menu display.  any other inputs will result in an endless loop
 */
 
