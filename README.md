@@ -18,5 +18,6 @@ program written for linux
 /*
 ~I cloned this repo onto my machine and I couldn't get the program to run form the command line.  I had to decompress the .zip file and run the .cbp from the IDE.  If anyone could get this program running from the ubuntu command line that would be great. 
 ~invalid menu options in some cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
+~when I try to compile and run this program from the command line, it throws an error regarding non-static data types in the Bookstore class. If you attempt to run the program from the command line you'll get the same error.  It might be an issue with how I'm attempting to build or run the program or it might be an issue with my code, but I couldn't resolve the issue before the due date.
 */
 
