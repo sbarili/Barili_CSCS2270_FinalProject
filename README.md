@@ -6,7 +6,7 @@ For my final project, I will be updating a bookstore's inventory, storing books 
 
 //HOW TO RUN
 /*
-After opening the project (terminal or codeblocks), the user will be prompted with a menu.  The user can just choose various menu options until exiting the program.
+In the repository I've uploaded a .zip file that has an entire codeblocks project.  Clone the repository to your machine, decompres the .zip, and run the .cbp from codeblocks to run the program.  I know, it's sloppy.  
 */
 
 //SYSTEM REQUIREMENTS
@@ -16,6 +16,7 @@ program written for linux
 
 //OPEN ISSUES/BUGS
 /*
-invalid menu options in some cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
+~I cloned this repo onto my machine and I couldn't get the program to run form the command line.  I had to decompress the .zip file and run the .cbp from the IDE.  If anyone could get this program running from the ubuntu command line that would be great. 
+~invalid menu options in some cases may cause a segmentation fault or endless loop.  I attempted to eliminate most edge cases but I'm not sure if I got all of them
 */
 
